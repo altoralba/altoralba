@@ -1,10 +1,16 @@
-### Hello World, I'm Al! 👋
+### Hello World! 👋
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=altoralba)
+My name is Al Zevastien Toralba and I'm a Mobile App and Game Developer. I'm currently working at <a name="https://www.indracompany.com/en/indra">Indra</a>. Besides programming, I enjoy anime-related media and memes.
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=altoralba&layout=compact)
+## A few personal details:
+- 📱 I primarily started as a native Android Developer.
+- 💻 I'm currently learning React for Web Development and ASP.NET for Software Development.
+- 🎮 I've had experience using different game engines, but I chose <a name="https://unity.com/">Unity</a> as my main preference.
 
 <!--
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=altoralba)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=altoralba&layout=compact)
+
 **altoralba/altoralba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
