@@ -2,6 +2,8 @@
 
 My name is Al Zevastien Toralba and I'm a Mobile App and Game Developer. I'm currently working at <a name="https://www.indracompany.com/en/indra">Indra Philippines, Inc</a>. Besides programming, I enjoy anime-related media and memes.
 
+<img width="492" alt="newgame" src="https://user-images.githubusercontent.com/49343842/152059462-4f1d0e03-0edf-4793-9569-253d34549f1d.png">
+
 ## A few personal details:
 - 📱 I primarily started as a native Android Developer.
 - 💻 I'm currently learning React for Web Development and ASP.NET for Software Development.
