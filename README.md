@@ -1,11 +1,11 @@
 ### Hello World! 👋
 
-My name is Al Zevastien Toralba and I'm a Mobile App and Game Developer. I'm currently working at <a name="https://www.indracompany.com/en/indra">Indra Philippines, Inc</a>. Besides programming, I enjoy anime-related media and memes.
+My name is Al Zevastien Toralba and I'm a Mobile App and Game Developer. I'm currently working at [Indra Philippines, Inc](https://www.indracompany.com/en/indra). Besides programming, I enjoy anime-related media and memes.
 
 ## A few personal details:
 - 📱 I primarily started as a native Android Developer.
-- 💻 I'm currently learning React for Web Development and ASP.NET for Software Development.
-- 🎮 I've had experience using different game engines, but I chose <a name="https://unity.com/">Unity</a> as my main preference.
+- 💻 I'm currently learning [React JS](https://reactjs.org/) for Web Development and [ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0) for Software Development.
+- 🎮 I've had experience using different game engines, but I chose [Unity](https://unity.com/) as my main preference.
 <img width="492" alt="newgame" src="https://user-images.githubusercontent.com/49343842/152059462-4f1d0e03-0edf-4793-9569-253d34549f1d.png">
 
 
