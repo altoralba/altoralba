@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-My name is Al Zevastien Toralba and I'm a Mobile App and Game Developer. I'm currently working at [Indra Philippines, Inc](https://www.indracompany.com/en/indra). Besides programming, I enjoy anime-related media and memes.
+My name is Al Zevastien Toralba and I'm a Mobile App and Game Developer. Besides programming, I enjoy anime-related media and memes.
 
 ## A few personal details:
 - 📱 I primarily started as a native Android Developer.
