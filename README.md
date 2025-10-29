@@ -1,15 +1,15 @@
 ### Hello World! 👋
 
-My name is Al Zevastien Toralba and I'm a Mobile App and Game Developer. Besides programming, I enjoy anime-related media and memes.
+My name is Al Zevastien Toralba and I'm a Fullstack Software Developer by day and Game Dev enthusiast at night.
 
 ## A few personal details:
-- 📱 I primarily started as a native Android Developer.
-- 💻 I'm currently learning [React JS](https://reactjs.org/) for Web Development and [ASP.NET](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0) for Software Development.
-- 🎮 I've had experience using different game engines, but I chose [Unity](https://unity.com/) as my main preference.
-<img width="492" alt="newgame" src="https://user-images.githubusercontent.com/49343842/152059462-4f1d0e03-0edf-4793-9569-253d34549f1d.png">
+- 📱 I started professionally as a native Android Developer and gained extensive experience on fullstack development over the years.
+- 💻 I'm currently working as a Software Developer while studying about newer and emerging technologies.
+- 🎮 I like brainstorming and developing game concepts in my spare time. I primarily use [Godot Engine](https://godotengine.org/) as my main game engine preference.
+<img width="492" alt="newgame-code" src="https://user-images.githubusercontent.com/49343842/152059462-4f1d0e03-0edf-4793-9569-253d34549f1d.png">
 
-
-
+I don't update a lot of my code here as most of the projects I've worked on are closed-source, but feel free to browse through my public repositories!
+<img width="492" alt="newgame" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwI6dbw19qysxdOlqR6dNT_w">
 
 <!--
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=altoralba)
