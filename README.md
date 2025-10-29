@@ -9,7 +9,7 @@ My name is Al Zevastien Toralba and I'm a Fullstack Software Developer by day an
 <img width="492" alt="newgame-code" src="https://user-images.githubusercontent.com/49343842/152059462-4f1d0e03-0edf-4793-9569-253d34549f1d.png">
 
 I don't update a lot of my code here as most of the projects I've worked on are closed-source, but feel free to browse through my public repositories!
-<br><img width="492" alt="newgame" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwI6dbw19qysxdOlqR6dNT_w">
+<br><br><img width="492" alt="newgame" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwI6dbw19qysxdOlqR6dNT_w">
 
 <!--
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=altoralba)
